@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaChute&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Krushna's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaChute&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Chaitanya's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaChute&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
 </div>
 
