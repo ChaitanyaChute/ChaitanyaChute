@@ -13,7 +13,8 @@
 
 🏫 I’m currently learning **Devops and Cloud**
 
-💬 Ask me about **Frontend Development, MERN & JAVA Full Stack Development, Data Structure and Algorithm**
+<!--💬 Ask me about **Frontend Development, MERN & JAVA Full Stack Development, Data Structure and Algorithm** -->
+💬 Ask me about **Backend Development, MERN Stack Development, Data Structure and Algorithm** 
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
