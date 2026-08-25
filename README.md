@@ -47,7 +47,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/chaitanyachute" target="_blank">
+  <a href="https://www.linkedin.com/in/chaitanyachute" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
